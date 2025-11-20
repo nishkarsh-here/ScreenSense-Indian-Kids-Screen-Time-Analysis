@@ -1,7 +1,7 @@
 🧩 ScreenSense: Kids’ Screentime Visualization
 📘 Overview
 
-This repository contains the work completed during my 2-month Infosys Springboard Internship (2025).
+This repository contains the work completed during my 3-month Infosys Springboard Internship (2025).
 The project, titled ScreenSense: Kids’ Screentime Visualization, analyzes children's screen usage patterns to derive actionable insights for parents, educators, and policymakers. The study uses data analytics and visualization to explore behavioral trends across age, gender, device type, activity, and geography.
 
 🎯 Objective
@@ -23,11 +23,11 @@ Highlight health and awareness gaps using visual analytics and dashboards.
 
 Teenagers using TVs/tablets and late teens using laptops/smartphones exhibit the highest screen time (often 4.5+ hrs/day).
 
-Most “Need Attention” and “Moderate Concern” segments cluster among urban pre-teens and teens.
+Most “Need Attention” and “Moderate Concern” segments cluster among urban preteens and teens.
 
 Mental health impacts are more common than physical issues, and awareness doesn’t always reduce screen use.
 
-Rural–urban gaps mainly influence device access rather than screen duration.
+Rural-urban gaps mainly influence device access rather than screen duration.
 
 Outliers with >12 hrs/day usage indicate critical risk groups requiring intervention.
 
@@ -101,7 +101,7 @@ Outliers	High-Risk Segments	Teens with 11+ hrs/day usage
 🧰 Tech Stack
 
 Languages: Python
-Libraries: pandas, numpy, matplotlib, seaborn, plotly
+Libraries: pandas, numpy, matplotlib, seaborn
 Dashboard Tools: Tableau, Power BI
 Environment: Jupyter Notebook
 Documentation: Markdown, PDF Reports, GitHub Repository
@@ -117,18 +117,18 @@ Documentation: Markdown, PDF Reports, GitHub Repository
 
 The project successfully:
 
-Demonstrated data analytics and visualization skills in a real-world context.
+Demonstrated data analytics and visualization skills in a real world context.
 
 Provided insightful trends into kids’ digital habits.
 
-Produced an interactive, stakeholder-friendly dashboard summarizing complex behavioral data into actionable takeaways.
+Produced an interactive, stakeholder friendly dashboard summarizing complex behavioral data into actionable takeaways.
 
-Completed under the 2-month Infosys Springboard Internship Program, focusing on practical, industry-aligned analytics application.
+Completed under the 2 month Infosys Springboard Internship Program, focusing on practical, industry aligned analytics application.
 
 💭 Internship Experience Reflection
 
-During my 2-month Infosys Springboard Internship, I gained hands-on exposure to the end-to-end analytics pipeline — from data preprocessing and visualization to dashboard storytelling.
-The experience strengthened my understanding of data-driven insights, Python analytics workflows, and the importance of clear visual communication for real-world decision-making.
+During my 2 month Infosys Springboard Internship, I gained hands on exposure to the end to end analytics pipeline from data preprocessing and visualization to dashboard storytelling.
+The experience strengthened my understanding of data driven insights, Python analytics workflows, and the importance of clear visual communication for real world decision making.
 
 📚 References
 
@@ -138,7 +138,7 @@ Kaggle Dataset: Indian Kids Screentime 2025
 
 WHO & APA Screen Time Guidelines
 
-Matplotlib, Seaborn, and Plotly Documentation
+Matplotlib and Seaborn
 
 👤 Author
 
