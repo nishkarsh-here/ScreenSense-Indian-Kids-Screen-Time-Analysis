@@ -1,4 +1,5 @@
 🧩 ScreenSense: Kids’ Screentime Visualization
+
 📘 Overview
 
 This repository contains the work completed during my 3-month Infosys Springboard Internship (2025).
